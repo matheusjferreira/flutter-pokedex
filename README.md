@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference. -->
 A simple app, which is basically a small pokédex (pokémon dictionary item, from the anime "Pokémon").
 
 * Figma(prototype):
-![figma](https://user-images.githubusercontent.com/59848966/169364420-9772fa21-7059-42e2-85ef-4d6e631d9029.png)
+![figma](https://user-images.githubusercontent.com/59848966/169747880-82141878-650f-4ac1-896a-42b7d0e0b124.png)
 
 * Result:
 ![result](https://user-images.githubusercontent.com/59848966/169372273-19f5b059-88ea-4a7b-b961-27bb290b3d8a.png)
